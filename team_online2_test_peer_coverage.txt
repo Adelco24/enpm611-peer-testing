@@ -1,0 +1,11 @@
+Name                    Stmts   Miss  Cover
+-------------------------------------------
+config.py                  68     23    66%
+dashboard/__init__.py       0      0   100%
+data_loader.py             18      1    94%
+example_analysis.py        28      1    96%
+labels_analysis.py         67      1    99%
+model.py                   63      0   100%
+state_analysis.py          29      1    97%
+-------------------------------------------
+TOTAL                     273     27    90%
